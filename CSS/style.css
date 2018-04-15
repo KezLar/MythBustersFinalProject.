@@ -2,13 +2,13 @@
   padding-top: 90px;
   min-height: 600px;
   margin-bottom: 0;
-  background-image: url('images/spice.jpg');
+  background-image: url('../images/spice.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
 
 .jumbotron h1 {
-  font-family: 'Vast Shadow', cursive;
+  font-family: 'Raleway', sans-serif;
   color: white;
   margin-bottom: 1em;
 }
@@ -83,7 +83,7 @@ nav a:hover::before {
 
 h1{
   color:black;
-  font: 16px 'Lato', bold;
+  font: 16px 'Raleway', bold;
 }
 @import "compass/css3";
 
@@ -104,10 +104,10 @@ $red: #ff4c52;
 body {
   padding: 0px;
   background: $background;
-  font: 16px/1.5 'Lato', sans-serif;
+  font: 16px/1.5 'Raleway', sans-serif;
 }
 
-@import url("https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900");
+@import url("https://fonts.googleapis.com/css?family=:100,300,400,700,900");
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
 #container {
   display: table;
@@ -292,7 +292,7 @@ body {
   border: none;
   outline: none;
   background: transparent;
-  font: 16px/1 'Lato', san-serif;
+  font: 16px/1 'Raleway', san-serif;
   color: $primary;
 }
 
